@@ -1,2 +1,3 @@
-# I2P-FinalProject
-I2P-FinalProject
+# Warrior's Survival
+Download Allegro: https ://github.com/liballeg/allegro5/releases
+
