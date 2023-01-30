@@ -11,4 +11,5 @@
 
 ## Play
 W, A, S, D: Control character to move
+
 Space: attack
